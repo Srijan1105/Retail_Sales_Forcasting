@@ -57,18 +57,8 @@ Dataset Link: https://www.kaggle.com/datasets/mikhail1681/walmart-sales?resource
 
 ## 📊 Sample Results
 
-| Metric | Value |
-|--------|-------|
-| RMSE   | ~XXX  |
-| MAE    | ~XXX  |
+| Metric |   Value    |
+|--------|------------|
+| RMSE   | 558533.16  |
+| MAE    | 436018.10  |
 
-> (Replace XXX with your actual output values)
-
----
-
-## 📦 How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/walmart-sales-forecasting.git
-   cd walmart-sales-forecasting
